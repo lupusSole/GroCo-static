@@ -30,15 +30,15 @@ p{
 }
 
  #title {
-  background-color: #c6cbef;
-  color: white;
+  background-color: white ;
+  color:#c6cbef;
 }
 .header-image{
   color: white;
 }
 
 .container-fluid {
-  padding: 3% 15% 20%;
+  padding: 3% 15% 10%;
 
 }
 
@@ -87,7 +87,7 @@ p{
 /* features */
 
 #features{
-  padding: 7% 15%;
+  padding: 1% 15%;
   background-color: white;
   position: relative;
 
@@ -97,6 +97,12 @@ p{
   padding: 5%;
   color:  #494ca2;
 
+}
+
+hr.new1 {
+  border-top: 3px dashed #494ca2;
+  margin-left:  15%;
+  margin-right:  15%
 }
 
 .icon{
